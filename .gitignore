@@ -1,0 +1,4 @@
+.netlify
+dist/elm.js
+elm-stuff/
+bin/
